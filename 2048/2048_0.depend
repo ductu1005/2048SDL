@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1619456115 source:g:\file codeblock\2048_0\dissquare.cpp
+	"DisSquare.h"
+
+1619205816 g:\file codeblock\2048_0\dissquare.h
+	"CONST.h"
+
+1619214873 g:\file codeblock\2048_0\const.h
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<SDL.h>
+
+1619206009 source:g:\file codeblock\2048_0\displayw.cpp
+	"DisplayW.h"
+
+1618508363 g:\file codeblock\2048_0\displayw.h
+	"CONST.h"
+
+1619455997 source:g:\file codeblock\2048_0\disword.cpp
+	"DisWord.h"
+
+1619208042 g:\file codeblock\2048_0\disword.h
+	"CONST.h"
+	"DisplayW.h"
+	"DisSquare.h"
+
+1618686317 source:g:\file codeblock\2048_0\random_2.cpp
+	"Random_2.h"
+
+1618686317 g:\file codeblock\2048_0\random_2.h
+	"CONST.h"
+
+1619451348 source:g:\file codeblock\2048_0\surface.cpp
+	"Surface.h"
+
+1619200293 g:\file codeblock\2048_0\surface.h
+	"CONST.h"
+
+1619215013 source:g:\file codeblock\2048_0\checka.cpp
+	"CheckA.h"
+
+1619215359 g:\file codeblock\2048_0\checka.h
+	"ResetG.h"
+
+1619216367 g:\file codeblock\2048_0\resetg.h
+	"CONST.h"
+	"Surface.h"
+
+1619543621 source:g:\file codeblock\2048_0\main.cpp
+	"CONST.h"
+	"Surface.h"
+	"Random_2.h"
+	"ResetG.h"
+	"CheckA.h"
+	"DisplayW.h"
+	"DisSquare.h"
+	"DisWord.h"
+	"Table.h"
+
+1619215521 g:\file codeblock\2048_0\table.h
+	"DisSquare.h"
+	"Surface.h"
+
+1619541795 source:g:\file codeblock\2048_0\table.cpp
+	"Table.h"
+
+1619216367 source:g:\file codeblock\2048_0\resetg.cpp
+	"ResetG.h"
+
